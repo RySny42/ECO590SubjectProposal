@@ -20,3 +20,4 @@ Image(url='https://api.census.gov/data/create_success.html')
 I saved a snapshot of the website and request but am still learning how to add images. I have not succeeded the path to the file part yet because I am uncertain of the path.
 
 My academic and professional interests include poverty and inequality, but my primary motivation for this project is to familiarize myself with Python and methods. I think it will be easier to narrow down the project as I learn more about the two. I will be content if I am able to present the material relatively well on GitHub.
+from IPython.display import Image Image(url='https://www.brookings.edu/wp-content/uploads/2016/07/one.jpg')
