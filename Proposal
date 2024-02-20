@@ -2,8 +2,7 @@ If Americans want to live the American dream, they should go to Denmark.-Richard
 
 If a parent's income had no effect on a child's opportunity for future upward mobility, approximately 20% of poor children who started in the bottom quintile (in the bottom 20% of the US range of incomes) would remain there as poor adults. At the other end of income spectrum, if children were born into wealthy families in the top 20%, only 20% would stay in that top income category if their mobility opportunities were equal to every other child's in the country.
 
-Education is believed to be the greatest equalizer and path to upward income mobility.
+Compared to other Western countries, mobility in the United States is low with studies showing between a .4 to .6 relation.
+from IPython.display import Image
+Image(url='https://bpb-eu-w2.wpmucdn.com/blogs.ucl.ac.uk/dist/5/694/files/2016/03/graph11.jpg')
 
-As the graph below reflects, without a college degree a child born into a family in the lowest quintile has a 45% chance of remaining in that quintile as an adult and only a 5% percent chance of moving into the highest quintile. The presentation is somewhat misleading and neglects to reflect that a child born into poverty has a 55% chance of moving into a higher quintile. Similarly, a child born into a family in the lowest quintile has a 19% chance of moving into the highest quintile upon earning a degree and a 16% chance of remaining in the lowest quintile. A college degree provides a 84% chance of upward mobility compared to the 55% chance without a degree.
-https://bpb-eu-w2.wpmucdn.com/blogs.ucl.ac.uk/dist/5/694/files/2016/03/graph11.jpg
-I was very excited this image displayed in Jupyter. I have not confirmed it did in the GitHub proposa
