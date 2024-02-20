@@ -10,3 +10,10 @@ Education is believed to be the greatest equalizer and path to upward income mob
 
 As the graph below reflects, without a college degree a child born into a family in the lowest quintile has a 45% chance of remaining in that quintile as an adult and only a 5% percent chance of moving into the highest quintile. The presentation is somewhat misleading and neglects to reflect that a child born into poverty has a 55% chance of moving into a higher quintile. Similarly, a child born into a family in the lowest quintile has a 19% chance of moving into the highest quintile upon earning a degree and a 16% chance of remaining in the lowest quintile. A college degree provides a 84% chance of upward mobility compared to the 55% chance without a degree.
 https://www.brookings.edu/wp-content/uploads/2016/07/one.jpg
+
+Based on interpretation, education does not appear to do much to even the playing field for children born into the lowest quintile. Additionally, relying on income to measure mobility is an inherent distortion that frames debate. Income is more fluid over time and one component of large disparities in intergenerational wealth.
+
+This project proposes to examine mobility using variables for education, income and wealth across quintiles. Variables will be created using APIs from The United States Census Bureau (key below) and data sets from the Nation Center for Education Statistics.
+
+from IPython.display import Image
+Image(url='https://api.census.gov/data/create_success.html')
