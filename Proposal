@@ -17,3 +17,5 @@ This project proposes to examine mobility using variables for education, income 
 
 from IPython.display import Image
 Image(url='https://api.census.gov/data/create_success.html')
+I saved a snapshot of the website and request but am still learning how to add images. I have not succeeded the path to the file part yet because I am uncertain of the path.
+
